@@ -1,0 +1,7 @@
+[submodule "openssh-portable"]
+	path = openssh-portable
+	url = https://github.com/openssh/openssh-portable
+[submodule "dietlibc"]
+	path = dietlibc
+	url = https://github.com/ensc/dietlibc/
+	branch = CVS
